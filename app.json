@@ -13,7 +13,10 @@
     },
     "android": {
       "package": "com.namakamu.warungdigital",
-      "permissions": ["CAMERA"],
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#EC4899"
@@ -27,6 +30,11 @@
           "photosPermission": "Aplikasi butuh akses galeri untuk memilih foto produk."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ab889c9c-7eee-472a-b4c8-847363427849"
+      }
+    }
   }
 }

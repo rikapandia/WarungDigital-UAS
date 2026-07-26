@@ -55,19 +55,17 @@ Scan QR Code dengan Expo Go di HP.
 ---
 
 ## 📦 Download APK
-
-[Download APK terbaru](LINK_APK_GITHUB_RELEASE_ATAU_DRIVE)
+[Download APK terbaru](https://expo.dev/artifacts/eas/T2EaLLWHsqtp8HqzDVIEhXVr9ByQ1_RFIGZ2Z7xOVdE.apk)
 
 ---
 
 ## 🌐 Expo Snack
 
-[Buka di Expo Snack](LINK_EXPO_SNACK)
-
+[Buka di Expo Snack](https://snack.expo.dev/@boraborii/warung-digital)
 ---
 
 ## 👤 Developer
 
-**Nama Lengkap** | NIM | Kelas
+**Rika Debora Masdalena Sembiring** | 243303621282 | Kelas Pemrograman Mobile
 Universitas Prima Indonesia — Prodi Sistem Informasi
 Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
