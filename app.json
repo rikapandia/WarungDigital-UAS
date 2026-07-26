@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Warung Digital",
+    "slug": "warung-digital-uas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#EC4899"
+    },
+    "android": {
+      "package": "com.namakamu.warungdigital",
+      "permissions": ["CAMERA"],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#EC4899"
+      }
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "Aplikasi butuh akses kamera untuk memotret produk.",
+          "photosPermission": "Aplikasi butuh akses galeri untuk memilih foto produk."
+        }
+      ]
+    ]
+  }
+}
