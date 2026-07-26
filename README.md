@@ -44,8 +44,7 @@
 
 ## 🚀 Cara Menjalankan
 
-```bash
-git clone https://github.com/username/nama-repo.git
+
 cd nama-repo
 npm install
 npx expo start
@@ -68,4 +67,4 @@ Scan QR Code dengan Expo Go di HP.
 
 **Rika Debora Masdalena Sembiring** | 243303621282 | Kelas Pemrograman Mobile
 Universitas Prima Indonesia — Prodi Sistem Informasi
-Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
+Mata Kuliah: Pemrograman Mobile 
